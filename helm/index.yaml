@@ -3,7 +3,17 @@ entries:
   test-app:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-07-01T11:45:06.218817845+02:00"
+    created: "2025-07-01T11:51:32.816972135+02:00"
+    description: A Helm chart for Kubernetes
+    digest: 88622be30cbdde7704ceecf1c07d4b16dcdd276105cf2e474f498822f6c89860
+    name: test-app
+    type: application
+    urls:
+    - https://svenh78.github.io/helm/test-app-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-07-01T11:51:32.816831112+02:00"
     description: A Helm chart for Kubernetes
     digest: 19f894e95d00895c2cb1836ec14e487ad4535d1ea1f81875d6de5d9fdd25ee77
     name: test-app
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://svenh78.github.io/helm/test-app-0.1.0.tgz
     version: 0.1.0
-generated: "2025-07-01T11:45:06.217746935+02:00"
+generated: "2025-07-01T11:51:32.816458962+02:00"
