@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  flog:
+  - apiVersion: v2
+    appVersion: 0.4.3
+    created: "2025-08-01T16:13:47.310635521+02:00"
+    description: A Helm chart for deploying Flog to Kubernetes
+    digest: 30cffaac353b85daa772b5060fafc356da0ed757b14bd702538c0882391eba50
+    name: flog
+    type: application
+    urls:
+    - flog-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-08-01T16:13:47.309825957+02:00"
